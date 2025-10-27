@@ -1,0 +1,4 @@
+name = "WoW TOC"
+grammar = "wow_toc"
+path_suffixes = ["toc"]
+line_comments = ["# "]
