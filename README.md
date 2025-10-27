@@ -2,7 +2,7 @@
 > Zed language extension that wires the wow_toc grammar to highlight .toc files.
 
 ## __What this extension provides__
-  - A languege with ```name = "WoW TOC"``` and ```grammar = "wow_toc"```
+  - A language with ```name = "WoW TOC"``` and ```grammar = "wow_toc"```
   - Highlights via ___tree-sitter___ queries (```highlights.scm```) and optional folds and indents
   - File association via ```path_suffixes = ["toc"]```
 
