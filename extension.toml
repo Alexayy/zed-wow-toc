@@ -2,7 +2,7 @@ id = "wow-toc"
 name = "World of Warcraft TOC"
 version = "0.0.1"
 schema_version = 1
-authors = ["Lekica <aleksa.cakic@gmail.com>"]
+authors = ["Alexayy <aleksa.cakic@gmail.com>"]
 description = "Syntax for .toc WoW addon manifests"
 repository = "https://github.com/Alexayy/zed-wow-toc"
 
